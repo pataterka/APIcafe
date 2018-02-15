@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="swagger-codegen-cli-3.0.0-rc0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../agillic_assignment/lib/swagger-codegen-cli-3.0.0-rc0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../agillic_assignment/lib/swagger-codegen-cli-3.0.0-rc0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../agillic_assignment/lib/swagger-codegen-cli-3.0.0-rc0.jar!/com/samskivert/super" />
+    </SOURCES>
+  </library>
+</component>
